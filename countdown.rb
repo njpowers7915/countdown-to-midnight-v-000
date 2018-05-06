@@ -17,3 +17,4 @@ def coundown_with_sleep(number)
     count -= 1
   end
   "HAPPY NEW YEAR!"
+end
